@@ -1,2 +1,2 @@
-# 003-info-pane
-An information panel that will pull data from a MySQL backend.
+# 003-golang-backend
+A basic Go program that connects to a MySQL database.
